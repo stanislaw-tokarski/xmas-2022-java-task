@@ -8,6 +8,4 @@ W tym momencie Grinch zrozumiał, że postąpił niesłusznie i zaproponował ro
 Napisz program, który zasymuluje powyższą sytuację. Przygotuj strukturę danych, która pozwoli na przechowywanie informacji o ciastkach oraz na wysyłanie raportu św. Mikołajowi. Pamiętaj – elfy są bardzo pracowite i wytwarzają dużo ciastek! Twoja struktura musi to uwzględniać. Miejsce do przechowywania nie jest nieograniczone, a ciastka położone jedno na drugim nie wyglądają zbyt apetycznie…
 Na końcu kodu dodaj Twoje imię, nazwisko oraz adres email, tak abyśmy wraz z elfami mogli przekazać Ci feedback do zadania ;)
 
-
-ZGODA (do dodania pod treścią zadania świątecznego na platformie GITHUB):
-Przesyłając rozwiązanie zadania programistycznego wyrażasz zgodę na przetwarzanie przez CentralNic Poland sp. z o.o. z siedzibą w Krakowie podanych przez siebie danych osobowych (imię, nazwisko, adres email), w celu otrzymania informacji zwrotnej. Z dodatkowymi informacjami można zapoznać się TUTAJ.
+<sub>*Przesyłając rozwiązanie zadania programistycznego wyrażasz zgodę na przetwarzanie przez CentralNic Poland sp. z o.o. z siedzibą w Krakowie podanych przez siebie danych osobowych (imię, nazwisko, adres email), w celu otrzymania informacji zwrotnej. Z dodatkowymi informacjami można zapoznać się TUTAJ.*</sub>
